@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/saumitra-portfolio/static/css/main.a6a60b54.chunk.css",
+    "main.js": "/saumitra-portfolio/static/js/main.a6a55f08.chunk.js",
+    "main.js.map": "/saumitra-portfolio/static/js/main.a6a55f08.chunk.js.map",
+    "runtime-main.js": "/saumitra-portfolio/static/js/runtime-main.d65f9966.js",
+    "runtime-main.js.map": "/saumitra-portfolio/static/js/runtime-main.d65f9966.js.map",
+    "static/js/2.6f53c90b.chunk.js": "/saumitra-portfolio/static/js/2.6f53c90b.chunk.js",
+    "static/js/2.6f53c90b.chunk.js.map": "/saumitra-portfolio/static/js/2.6f53c90b.chunk.js.map",
+    "static/js/3.6b1a2d57.chunk.js": "/saumitra-portfolio/static/js/3.6b1a2d57.chunk.js",
+    "static/js/3.6b1a2d57.chunk.js.map": "/saumitra-portfolio/static/js/3.6b1a2d57.chunk.js.map",
+    "index.html": "/saumitra-portfolio/index.html",
+    "static/css/main.a6a60b54.chunk.css.map": "/saumitra-portfolio/static/css/main.a6a60b54.chunk.css.map",
+    "static/js/2.6f53c90b.chunk.js.LICENSE.txt": "/saumitra-portfolio/static/js/2.6f53c90b.chunk.js.LICENSE.txt",
+    "static/media/Saumitra_Bajpai_Resume2021.pdf": "/saumitra-portfolio/static/media/Saumitra_Bajpai_Resume2021.ac35203c.pdf",
+    "static/media/coding.png": "/saumitra-portfolio/static/media/coding.eb3a5d13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d65f9966.js",
+    "static/js/2.6f53c90b.chunk.js",
+    "static/css/main.a6a60b54.chunk.css",
+    "static/js/main.a6a55f08.chunk.js"
+  ]
+}
