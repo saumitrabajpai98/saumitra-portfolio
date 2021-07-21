@@ -11,7 +11,7 @@ function About(){
                 <div className='about-info'>
                     Hello There 👋, I am
                     <br/><span className='about-name'>Saumitra Bajpai</span>.
-                    <br/>I am fond of Creating dynamic web comtent 
+                    <br/>I am fond of Creating dynamic web apps and Problem Solving.
                 </div>
                 <div className='about-pic'>
                     <img src={require("../../../assets/coding.png").default} alt="Guy with a system coding" className='picture'/>

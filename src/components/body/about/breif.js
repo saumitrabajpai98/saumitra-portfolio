@@ -6,7 +6,7 @@ function Breif(){
     <>
         <div className='breif'>
             Hey, I am currently pursuing M.C.A form Harcourt Butler Technical University, Kanpur (est. HBTI)
-            <br/> I love to create amazing web-apps and problem solving.
+            <br/> I love to create amazing web-apps and also intrested problem solving.
         </div>  
     </>);
 };
