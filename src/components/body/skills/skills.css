@@ -1,0 +1,52 @@
+.skl-pic1{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-bottom: 1rem;
+}
+.skl-pic2{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-top: 1rem;
+}
+.Skill-icon-type{
+    font-size: 5rem;
+    padding: 1.5rem;
+}
+.skillname{
+font-size: 1.5rem;
+font-weight: 600;
+}
+
+@media only screen and (max-width:720px)
+{
+    .skl-pic1
+    {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap:wrap;
+    }
+    .skl-pic2
+    {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .Skill-icon-type{
+        font-size: 3.9rem;
+    }
+    .skillname{
+        font-size: 1.2rem;
+    }
+}
+@media only screen and (max-width:400px)
+{
+    .Skill-icon-type{
+        font-size: 3.8rem;
+    }
+    .skillname{
+        font-size: 1.2rem;
+    }
+
+}

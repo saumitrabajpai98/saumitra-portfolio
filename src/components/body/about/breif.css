@@ -1,0 +1,14 @@
+.breif{
+    display:flex;
+    align-items: center;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+@media only screen and(max-width:720px)
+{
+    .breif{
+        justify-content: center;
+    }
+}
